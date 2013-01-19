@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Coffee coffee aeropress burr grinder wet filter medium grind. Web HTML CSS JavaScript ExpressionEngine Web Standards progressive enhancement graceful degradation. With great power comes great responsibility how you build matters how you design matters. You do not need this web class. 
 
-Art is art. Design is process and application of studies. Without purpose design just ornamentation. Design what is a process not the visuals. 
+Art is art. Design is process and application of studies. Without purpose design just ornamentation. Design is a process not only the visuals. 
 
-Please excuse any brevity. No. Yes. Maybe.  
+Please excuse any brevity. No. Yes. Maybe.
+=======
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+>>>>>>> parent of 5b87c69... v1 of ipsum.txt
